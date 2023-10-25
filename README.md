@@ -19,9 +19,6 @@ python 3.8  and the following libraries are used
 ## How to use
 
 1. Step 1:  Select Algorithm to run SFCS-2X or SFCS-3X
-  Use ``ex_count`` variable 
-     - for SFCS-2X set ``ex_count`` = 2 
-     - for SFCS-3X set ``ex_count`` = 3
 
 2. Step 2:  Define Parameter Values 
 
