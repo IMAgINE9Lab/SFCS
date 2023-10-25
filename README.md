@@ -26,12 +26,12 @@ python 3.8  and the following libraries are used
 2. Step 2:  Define Parameter Values 
 
 
-    C1_w: weights for classifier 1 (0,1)
-    C2_w: weights for classifier 2 (0,1)
-    C3_w: weights for classifier 3 (0,1)
-    f: feature acquisition cost 
-    b: number of bins considered when quantizing the feature space 
-    n: precision parameter used to quantize when finding all possible posterior probabilities
+    - Weight for classifier 1 (0,1)
+    - Weight for classifier 2 (0,1)
+    - Weight for classifier 3 (0,1)
+    - Feature acquisition cost 
+    - Number of bins considered when quantizing the feature space 
+    - Precision parameter used to quantize when finding all possible posterior probabilities
 
         
 3. Step 3: Import Dataset 
