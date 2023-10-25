@@ -18,9 +18,10 @@ python 3.8  and the following libraries are used
 
 ## How to use
 
-1. Step 1:  Select Algorithm to run SFCS-2X or SFCS-3X
+1. Step 1:  Select Algorithm to run
+   SFCS-2X or SFCS-3X
 
-2. Step 2:  Define Parameter Values 
+3. Step 2:  Define Parameter Values 
 
 
     - Weight for classifier 1 
@@ -31,14 +32,14 @@ python 3.8  and the following libraries are used
     - Precision parameter used to quantize when finding all possible posterior probabilities
 
         
-3. Step 3: Import Dataset 
+4. Step 3: Import Dataset 
 
     Import a dataset and separate features and variables
     
-4. Step 4: Run Algorithm 
+5. Step 4: Run Algorithm 
 
     Run SFCS using features and variable as input
-5. Step 5: Results 
+6. Step 5: Results 
 
     Print results: accuracy, average number of features, training time, and testing time to see the output
 
