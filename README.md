@@ -19,7 +19,8 @@ python 3.8  and the following libraries are used
 ## How to use
 
 1. Step 1:  Select Algorithm to run
-   SFCS-2X or SFCS-3X
+
+      SFCS-2X or SFCS-3X
 
 3. Step 2:  Define Parameter Values 
 
