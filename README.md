@@ -1,5 +1,5 @@
 # SFCS
-SFCS is a Sequential Datum-wise Feature Acquisition and Classifier Selection Algorithm
+Sequential Datum-wise Feature Acquisition and Classifier Selection Algorithm
 
 # Citation
 To cite our paper, please use the following reference:
