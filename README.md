@@ -26,9 +26,9 @@ python 3.8  and the following libraries are used
 2. Step 2:  Define Parameter Values 
 
 
-    - Weight for classifier 1 (0,1)
-    - Weight for classifier 2 (0,1)
-    - Weight for classifier 3 (0,1)
+    - Weight for classifier 1 
+    - Weight for classifier 2 
+    - Weight for classifier 3 
     - Feature acquisition cost 
     - Number of bins considered when quantizing the feature space 
     - Precision parameter used to quantize when finding all possible posterior probabilities
