@@ -7,9 +7,9 @@ To cite our paper, please use the following reference:
 
 # Prerequisites
 python 3.8 and the following libraries are used
-- sklearn
-- numpy
-- scipy
+- sklearn 0.0
+- numpy 1.24.4
+- scipy 1.5.0
 
 # Files
 - example.py: run SFCS for Diabetes dataset.
