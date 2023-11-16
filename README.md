@@ -4,7 +4,7 @@ SFCS is a Sequential Datum-wise Feature Acquisition and Classifier Selection Alg
 # Citation
 To cite our paper, please use the following reference:
 
-S. P. Ekanayake and D. -S. Zois, "Sequential Datum–Wise Feature Acquisition and Classifier Selection," IEEE Transactions on Artificial Intelligence, Oct. 2023. (Accepted)
+S. P. Ekanayake, D. -S. Zois, C. Chelmis, "Sequential Datum–Wise Feature Acquisition and Classifier Selection," IEEE Transactions on Artificial Intelligence, Oct. 2023. (Accepted)
 
 # Prerequisites
 python 3.8 and the following libraries are used
